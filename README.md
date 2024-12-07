@@ -130,7 +130,7 @@ def powerlamp(request):
 ```
 # HOMEPAGE:
 ![EXPERIMENT 5 SS](https://github.com/user-attachments/assets/6234bc18-bfef-490c-a3c4-31e27ccf68a9)
-#OUTPUT:
+# OUTPUT:
 ![EXPERIMENT 5 SS (1)](https://github.com/user-attachments/assets/f054b184-2a9c-416e-ac71-b5413786a0ec)
 
 # RESULT:
